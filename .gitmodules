@@ -1,0 +1,3 @@
+[submodule "fossen-diff"]
+	path = fossen-diff
+	url = git@github.com:lynet55/fossen-diff.git
