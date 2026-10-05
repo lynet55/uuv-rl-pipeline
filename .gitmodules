@@ -1,3 +1,6 @@
 [submodule "fossen-diff"]
 	path = fossen-diff
 	url = git@github.com:lynet55/fossen-diff.git
+[submodule "marine-gym-frl"]
+	path = marine-gym-frl
+	url = git@github.com:lynet55/marine-gym-frl.git
